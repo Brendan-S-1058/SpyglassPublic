@@ -1,9 +1,10 @@
+
 '''
 import statbotics
 
 sb = statbotics.Statbotics()
 print(sb.get_team(254))
-'''
+''''''
 
 import pandas as pd
 import os
@@ -259,7 +260,7 @@ def NewSheet (passval):
         
         
         
-        '''        
+        '''        '''
         UNCOMMENT THIS WHEN STATBOTICS IS WORKING
 
         
@@ -270,7 +271,7 @@ def NewSheet (passval):
         norm_epa = (epaList['norm_epa'])
         DataList.append(norm_epa)
         #DataList.append (epa)
-        '''
+        ''''''
         DataList.append ("UNCOMMENT STATBOTICS WHEN IT WORKS AGAIN")
         if passval == True:
             with open('Spyglass/Reefscape 2025 base - Sheet1.csv', 'r') as file:
@@ -320,3 +321,4 @@ def NewSheet (passval):
 
 state = False
 NewSheet (state)
+'''
