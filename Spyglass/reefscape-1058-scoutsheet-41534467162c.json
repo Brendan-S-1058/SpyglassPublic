@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "reefscape-1058-scoutsheet",
+  "private_key_id": "41534467162c9c3018648d10b38a5f2c38745314",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDIQPaJKcbk2AkK\nhzDA6cccuPTpBIm3Ku6kYQmrzLyyNSy5n5tUHuqB3xz+2pdZyD9ywn/alp7jSNJM\nmzWadFzgPqMExurbl7GCXjXw4bEoGamby1QePcVCIUXEFc8Tz6lgFfmk8QWmAw1O\naQprnz5nTR/AIXImrzKfrf5MDrvYXYV3aabNVEiCGYQu+CuS+px0PtFmaP3YQYIH\n4E+OpMswZ5j+sNKO1wlaZwTBDkwCkZIeMjbWcZRvlX0O/N2gTxRiXzTIDg/XjrG5\npPKGJ0J7o1f9AjoMtTYQqE9qLaiCayGWyC4NXE+z2M95zNi/iHs84Smrtk9RjNyQ\nZczHfl/7AgMBAAECggEAC/Ztg9YeDo+lQp6+19dfUKTv5Hej7nA/H0y4si2h3Bd3\nG4OgWM8b/TQh3EucnP1sZOOflaRHy5YPEgp3kkl/PtofDOsBHqsaLIqKOGCTH60g\nx7DGzqOsA/5O157h5vIR0S6e4i6PwtIN2nBF8hXqOWuPCQA2fH8czBMtzMdYi103\nreQja+ZdNAH5n7oylXhjZJe8P1gx27hUKZ5rd80fa6dwGU088JiltVFsz2vukSAG\nCE4iDdeNN6NhSuK7uLacYgt61w/+aV69Jzkgp4UFbIrnTQ4y84YWoqbbCxlVy1Co\nupYBCIAg3ThwYFPphPIwNUqLnCinDhJhbY+a+N2kaQKBgQD5LYA9972eREDRTonW\n4Bzx8zSczxMi2cOyjkxJSrOgRxXa87Am1YImU//6jtHTZ8UFUhyYH5HM1lQdtcl1\n9IQLvSIsNenPkBi90n/A1tFMrZuFZ/js4QLWcfo2/8PjCxvkt2i6n8a1XMHDyqSX\nrWldRKCVtq+joas+yAaE4QGVJQKBgQDNvI0wmMpQ5Sqn6SOzeEdYLg1axf6c0HHq\nz6h8WCyXmngC6kksB28F0INHm2ZBekMGh/AQGfcN8gPpLBSRGUx/rUpQqPkxm6wx\nHChn+zV3G8Hds3mj5TRKxw8FyFppa6P60CeRV+4NE3UaJoom/VjH0gP35EToUjcM\nOrx90N5mnwKBgQCTAv9okCP1nntHgjjc57jsHvtpkNrPcv9892uWylYUOBxy49eH\n8ewpxOF/6IdvXQfmzb1FG0sgOUvDg59q0mqdqmbhAqYB6hhO1kS9d4Bg5wScvu0k\nhNTxxKlFjbz61XENjhBiGyZXlnRTmdlmC8/gUT8VVYVm21l3XvhJqZ8PaQKBgQCX\nI4oRhl0yengQrEwG3ziCRiqXYda/Or5FQtJCrr/ri5XYhmbEyp08B0c6BqZjOb8d\ngCXSnlCJVR6cYD6nrY8uSI7MnKWcVQF1fnsMkFZhrumHxf55cbstp/iYRextf58S\ndXJr6s29m2qukFtzczCScu1pYa9hgGxiNpAcWaHYfwKBgQDBUQEphRNxuh+wb+em\ndryWPx1Nq/8b2qIXPTCT9h6J5P3Ca3UjIQk/AwB6FUF32ohXYYOssQc/3xtSYGon\nVFHlyX7vmciHmv9qbmndkwJfpy6dMxFDRHWQwofOqDipIgAYLUSpkY8nyKKP/1XT\nXkiUe+5LB6hJaxatHkK7ozNwww==\n-----END PRIVATE KEY-----\n",
+  "client_email": "reefscape-1058-scoutsheet@reefscape-1058-scoutsheet.iam.gserviceaccount.com",
+  "client_id": "103619641661496772219",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/reefscape-1058-scoutsheet%40reefscape-1058-scoutsheet.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
